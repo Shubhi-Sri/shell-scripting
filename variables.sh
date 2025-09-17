@@ -5,6 +5,7 @@
 << comment
 anything wwritten here will not execute 
 comment
+echo"hello"
 name="Shubhi"
 name2="Srivastava"
 echo "Name is $name" "$name2"
